@@ -1,4 +1,7 @@
 # Exercício_JavaScrpt_04_CURSO EM VIDEO
+
+teste voce mesmo (https://4rthurconceicao.github.io/Exerc-cio_JavaScrpt_04_CURSO-EM-VIDEO/)
+
  Exercício feito durante o curso de JavaScript
 
  Nesse exercício fizemos um script que gera uma tabuada do numero que o usuario escolher.
